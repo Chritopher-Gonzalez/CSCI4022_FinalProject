@@ -114,7 +114,6 @@ S.No.,Bank Name,Ticker,Country
 113,Hancock Whitney Corporation ,HWC,United States
 114,Hanmi Financial Corporation ,HAFC,United States
 115,Hanover Bancorp Inc. ,HNVR,United States
-116,HarborOne Bancorp Inc. ,HONE,United States
 117,Hawthorn Bancshares Inc. ,HWBK,United States
 118,HBT Financial Inc. ,HBT,United States
 119,Heartland Financial USA Inc. ,HTLF,United States
@@ -137,7 +136,6 @@ S.No.,Bank Name,Ticker,Country
 136,Lakeland Financial Corporation ,LKFN,United States
 137,Landmark Bancorp Inc. ,LARK,United States
 138,LCNB Corporation ,LCNB,United States
-139,Limestone Bancorp Inc. ,LMST,United States
 140,Luther Burbank Corporation ,LBC,United States
 141,Macatawa Bank Corporation ,MCBC,United States
 142,Magyar Bancorp Inc. ,MGYR,United States
@@ -154,7 +152,6 @@ S.No.,Bank Name,Ticker,Country
 153,MidWestOne Financial Gp ,MOFG,United States
 154,National Bankshares Inc. ,NKSH,United States
 155,NBT Bancorp Inc. ,NBTB,United States
-156,Northeast Bank ,NBN,United States
 157,Northfield Bancorp Inc.  ,NFBK,United States
 158,Northwest Bancshares Inc. ,NWBI,United States
 159,Norwood Financial Corp. ,NWFL,United States
@@ -164,7 +161,6 @@ S.No.,Bank Name,Ticker,Country
 163,Old National Bancorp ,ONB,United States
 164,Old Point Financial Corporation ,OPOF,United States
 165,Old Second Bancorp Inc. ,OSBC,United States
-166,OP Bancorp ,OPBK,United States
 167,OptimumBank Holdings Inc. ,OPHC,United States
 168,Orange County Bancorp Inc. ,OBT,United States
 169,Origin Bancorp Inc. ,OBNK,United States
@@ -205,7 +201,7 @@ S.No.,Bank Name,Ticker,Country
 204,SHF Holdings Inc. ,SHFS,United States
 205,Shore Bancshares Inc ,SHBI,United States
 206,Sierra Bancorp ,BSRR,United States
-207,"Signature Bank **(Failed - Shutdown on Mar 12, 2023)**",SBNY,United States
+207,"Signature Bank **(Failed - Shutdown on Mar 12 2023)**",SBNY,United States
 208,Simmons First National Corporation ,SFNC,United States
 209,SmartFinancial Inc. ,SMBK,United States
 210,South Plains Financial Inc. ,SPFI,United States
@@ -218,7 +214,7 @@ S.No.,Bank Name,Ticker,Country
 217,Stock Yards Bancorp Inc. ,SYBT,United States
 218,Summit Financial Group Inc. ,SMMF,United States
 219,Summit State Bank ,SSBI,United States
-220,"SVB Financial Group**(Failed - Shutdown on Mar 10, 2023)**",SIVB,United States
+220,"SVB Financial Group**(Failed - Shutdown on Mar 10 2023)**",SIVBQ,United States
 221,TC Bancshares Inc. ,TCBC,United States
 222,Texas Capital Bancshares Inc. ,TCBI,United States
 223,Texas Community Bancshares Inc. ,TCBS,United States
@@ -239,7 +235,6 @@ S.No.,Bank Name,Ticker,Country
 238,United Security Bancshares ,UBFO,United States
 239,Unity Bancorp Inc. ,UNTY,United States
 240,Univest Financial Corporation ,UVSP,United States
-241,USCB Financial Holdings Inc. ,USCB,United States
 242,Valley National Bancorp ,VLY,United States
 243,Veritex Holdings Inc. ,VBTX,United States
 244,Village Bank and Trust Financial Corp. ,VBFC,United States
