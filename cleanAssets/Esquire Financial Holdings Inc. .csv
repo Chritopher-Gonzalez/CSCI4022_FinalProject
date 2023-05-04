@@ -1,92 +1,92 @@
-Fiscal year is January0December. All values USD Millions.,2022,2021,2020,2019,2018
+Fiscal year is January-December. All values USD Millions.,2022,2021,2020,2019,2018
 Total Cash & Due from Banks,164,149,65,62,1
-Cash & Due from Banks Growth,10.03%,128.82%,5.47%,9278.76%,0
-Investments 0 Total,255,201,172,149,178
-Trading Account Securities,0,0,0,0,0
-Federal Funds Sold & Securities Purchased,50,50,52,0,0
-Federal Funds Sold,0,0,0,0,0
-Securities Bought Under Resale Agreement,50,50,52,0,0
-Treasury Securities,0,0,0,0,0
-Federal Agency Securities,0,0,0,0,0
-State & Municipal Securities,0,0,0,0,0
+Cash & Due from Banks Growth,10.03%,128.82%,5.47%,9278.76%,-
+Investments - Total,255,201,172,149,178
+Trading Account Securities,-,-,-,-,-
+Federal Funds Sold & Securities Purchased,50,50,52,-,-
+Federal Funds Sold,-,-,-,-,-
+Securities Bought Under Resale Agreement,50,50,52,-,-
+Treasury Securities,-,-,-,-,-
+Federal Agency Securities,-,-,-,-,-
+State & Municipal Securities,-,-,-,-,-
 Mortgage Backed Securities,188,148,118,146,146
-Other Securities,0,0,0,0,0
+Other Securities,-,-,-,-,-
 Other Investments,18,3,3,3,32
-Investments Growth,26.69%,17.00%,15.42%,016.33%,0
+Investments Growth,26.69%,17.00%,15.42%,-16.33%,-
 Net Loans,935,775,661,558,462
-Gross Loans 0 Net of Unearned Income,0,0,0,0,0
+Gross Loans - Net of Unearned Income,-,-,-,-,-
 Commercial & Industrial Loans,552,432,358,258,192
 Consumer & Installment Loans,17,9,41,47,44
-Interbank Loans,0,0,0,0,0
+Interbank Loans,-,-,-,-,-
 Real Estate Mortgage Loans,380,344,273,260,232
-Lease Financing Loans,0,0,0,0,0
-Foreign Loans,0,0,0,0,0
-Broker & Financial Institution Loans,0,0,0,0,0
-Unspecified/Other Loans,0,0,0,0,1
-Unearned Income,1,0,0,0,0
+Lease Financing Loans,-,-,-,-,-
+Foreign Loans,-,-,-,-,-
+Broker & Financial Institution Loans,-,-,-,-,-
+Unspecified/Other Loans,-,-,-,0,1
+Unearned Income,1,0,0,-,-
 Loan Loss Allowances Reserves,12,9,11,7,6
-Investment in Unconsolidated Subs.,0,0,0,0,0
-Customer Liability on Acceptances,0,0,0,0,0
-Real Estate Other Than Bank Premises,0,0,0,0,0
-Loans 0 1 Yr Growth Rate,20.59%,17.31%,18.38%,20.74%,0
+Investment in Unconsolidated Subs.,-,-,-,-,-
+Customer Liability on Acceptances,-,-,-,-,-
+Real Estate Other Than Bank Premises,-,-,-,-,-
+Loans - 1 Yr Growth Rate,20.59%,17.31%,18.38%,20.74%,-
 Total Deposits FOR CALC PURPOSES,1228,1028,804,681,568
 Loans Total / Total Deposits,0.00%,0.00%,0.00%,0.00%,0.00%
 Loans Total / Total Assets,0.00%,0.00%,0.00%,0.00%,0.00%
 Net Property Plant & Equipment,5,6,6,6,3
 Other Assets Including Intangibles,21,40,25,18,13
 Other Assets,21,40,25,18,13
-Intangible Assets,0,0,0,0,0
-Deferred Charges,0,0,0,0,0
+Intangible Assets,-,-,-,-,-
+Deferred Charges,-,-,-,-,-
 Interest Receivables,6,4,5,3,4
 Total Assets,1397,1181,939,799,664
-Assets 0 Total Growth,18.36%,25.71%,17.54%,20.31%,0
-Return On Average Assets,2.21%,0,0,0,0
+Assets - Total Growth,18.36%,25.71%,17.54%,20.31%,-
+Return On Average Assets,2.21%,-,-,-,-
 Total Deposits,1228,1028,804,681,568
 Demand Deposits,444,409,352,202,213
 Savings/Time Deposits,784,619,452,479,356
-Foreign Office Deposits,0,0,0,0,0
-Unspecified Deposits,0,0,0,0,0
-Deposits Growth,19.43%,27.90%,18.14%,19.74%,0
+Foreign Office Deposits,-,-,-,-,-
+Unspecified Deposits,-,-,-,-,-
+Deposits Growth,19.43%,27.90%,18.14%,19.74%,-
 Total Debt,3,3,4,3,0
-ST Debt & Current Portion LT Debt,1,1,1,1,0
-Current Portion of Long Term Debt,0,0,0,0,0
-Short Term Debt,0,1,1,1,0
-Long0Term Debt,2,2,3,3,0
-LT Debt excl. Capitalized Leases,0,0,0,0,0
-Capitalized Lease Obligations,0,0,0,0,0
-Provision for Risks & Charges,0,0,0,0,0
-Long Term Debt Growth,010.53%,020.13%,3.71%,3080.90%,0
+ST Debt & Current Portion LT Debt,1,1,1,1,-
+Current Portion of Long Term Debt,-,-,-,-,-
+Short Term Debt,-,1,1,1,-
+Long-Term Debt,2,2,3,3,0
+LT Debt excl. Capitalized Leases,-,-,0,0,0
+Capitalized Lease Obligations,-,-,-,-,-
+Provision for Risks & Charges,-,-,-,-,-
+Long Term Debt Growth,-10.53%,-20.13%,3.71%,3080.90%,-
 Total Assets FOR CALCULATION PURPOSES ONLY,1397,1181,939,799,664
 Total Debt / Total Assets,0.20%,0.25%,0.38%,0.43%,0.01%
 Deferred Tax Liabilities,10,3,3,2,3
-Deferred Taxes 0 Credit,2,2,2,1,0
-Deferred Taxes 0 Debit,11,5,5,3,3
+Deferred Taxes - Credit,2,2,2,1,0
+Deferred Taxes - Debit,11,5,5,3,3
 Other Liabilities,6,4,3,3,3
-Deferred Tax Liability0Untaxed Reserves,0,0,0,0,0
+Deferred Tax Liability-Untaxed Reserves,-,-,-,-,-
 Other Liabilities excl. Deferred Income,6,4,3,3,3
-Deferred Income,0,0,0,0,0
+Deferred Income,-,-,-,-,-
 Total Liabilities,1239,1037,813,688,571
-Total Liabilities Growth,19.51%,27.53%,18.19%,20.41%,0
-Preferred Stock Carrying Value,0,0,0,0,0
-Redeemable Preferred Stock,0,0,0,0,0
-Non0Redeemable Preferred Stock,0,0,0,0,0
-Preferred Stock issues for ESOP,0,0,0,0,0
-ESOP Guarantees 0 Preferred Stock,0,0,0,0,0
+Total Liabilities Growth,19.51%,27.53%,18.19%,20.41%,-
+Preferred Stock Carrying Value,-,-,-,-,-
+Redeemable Preferred Stock,-,-,-,-,-
+Non-Redeemable Preferred Stock,-,-,-,-,-
+Preferred Stock issues for ESOP,-,-,-,-,-
+ESOP Guarantees - Preferred Stock,-,-,-,-,-
 Common Equity Total,158,144,126,111,93
 Common Stock Par/Carry Value,0,0,0,0,0
-Additional Paid0In Capital/Capital Surplus,96,94,92,90,89
+Additional Paid-In Capital/Capital Surplus,96,94,92,90,89
 Retained Earnings,78,51,34,21,7
-ESOP Debt Guarantee,0,0,0,0,0
-Cumulative Translation Adjustment/Unrealized For. Exch. Gain,0,0,0,0,0
+ESOP Debt Guarantee,-,-,-,-,-
+Cumulative Translation Adjustment/Unrealized For. Exch. Gain,-,-,-,-,-
 Unrealized Gain/Loss Marketable Securities,15,1,1,0,3
-Revaluation Reserves,0,0,0,0,0
-Other Appropriated Reserves,0,0,0,0,0
-Unappropriated Reserves,0,0,0,0,0
-Treasury Stock,1,1,1,0,0
+Revaluation Reserves,-,-,-,-,-
+Other Appropriated Reserves,-,-,-,-,-
+Unappropriated Reserves,-,-,-,-,-
+Treasury Stock,1,1,1,-,-
 Common Equity / Total Assets,0.11%,0.12%,0.13%,0.14%,0.14%
 Total Shareholders Equity,158,144,126,111,93
 Total Shareholders Equity / Total Assets,11.32%,12.17%,13.42%,13.90%,13.97%
-Return On Average Total Equity,18.89%,0,0,0,0
-Accumulated Minority Interest,0,0,0,0,0
+Return On Average Total Equity,18.89%,-,-,-,-
+Accumulated Minority Interest,-,-,-,-,-
 Total Equity,158,144,126,111,93
 Liabilities & Shareholders Equity,1397,1181,939,799,664

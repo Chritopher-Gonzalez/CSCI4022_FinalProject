@@ -1,34 +1,34 @@
-Fiscal year is January0December. All values USD Millions.,2022,2021,2020,2019,2018
+Fiscal year is January-December. All values USD Millions.,2022,2021,2020,2019,2018
 Total Cash & Due from Banks,19,23,25,22,21
-Cash & Due from Banks Growth,018.89%,06.12%,12.66%,3.60%,0
-Investments 0 Total,1501,1686,1316,963,979
-Trading Account Securities,0,0,0,0,0
-Federal Funds Sold & Securities Purchased,0,0,0,0,0
-Federal Funds Sold,0,0,0,0,0
-Securities Bought Under Resale Agreement,0,0,0,0,0
-Treasury Securities,155,109,0,0,0
+Cash & Due from Banks Growth,-18.89%,-6.12%,12.66%,3.60%,-
+Investments - Total,1501,1686,1316,963,979
+Trading Account Securities,-,-,-,-,-
+Federal Funds Sold & Securities Purchased,-,-,-,-,-
+Federal Funds Sold,-,-,-,-,-
+Securities Bought Under Resale Agreement,-,-,-,-,-
+Treasury Securities,155,109,-,-,-
 Federal Agency Securities,144,140,122,50,47
 State & Municipal Securities,286,313,297,179,235
 Mortgage Backed Securities,739,652,500,379,433
 Other Securities,62,68,76,77,90
 Other Investments,116,405,322,279,175
-Investments Growth,011.00%,28.13%,36.68%,01.64%,0
+Investments Growth,-11.00%,28.13%,36.68%,-1.64%,-
 Net Loans,2595,2476,2215,2142,2124
-Gross Loans 0 Net of Unearned Income,0,0,0,0,0
+Gross Loans - Net of Unearned Income,-,-,-,-,-
 Commercial & Industrial Loans,505,535,616,515,570
 Consumer & Installment Loans,197,157,119,120,99
-Interbank Loans,0,0,0,0,0
+Interbank Loans,-,-,-,-,-
 Real Estate Mortgage Loans,1919,1808,1512,1528,1475
-Lease Financing Loans,0,0,0,0,0
-Foreign Loans,0,0,0,0,0
-Broker & Financial Institution Loans,0,0,0,0,0
-Unspecified/Other Loans,0,0,0,0,0
-Unearned Income,0,0,0,0,0
+Lease Financing Loans,-,-,-,-,-
+Foreign Loans,-,-,-,-,-
+Broker & Financial Institution Loans,-,-,-,-,-
+Unspecified/Other Loans,-,-,-,-,-
+Unearned Income,-,-,-,-,-
 Loan Loss Allowances Reserves,25,24,32,22,21
 Investment in Unconsolidated Subs.,1,1,1,1,1
-Customer Liability on Acceptances,0,0,0,0,0
+Customer Liability on Acceptances,-,-,-,-,-
 Real Estate Other Than Bank Premises,3,5,4,5,10
-Loans 0 1 Yr Growth Rate,4.81%,11.76%,3.44%,0.84%,0
+Loans - 1 Yr Growth Rate,4.81%,11.76%,3.44%,0.84%,-
 Total Deposits FOR CALC PURPOSES,3587,3738,3131,2777,2796
 Loans Total / Total Deposits,0.00%,0.00%,0.00%,0.00%,0.00%
 Loans Total / Total Assets,0.00%,0.00%,0.00%,0.00%,0.00%
@@ -36,57 +36,57 @@ Net Property Plant & Equipment,50,52,53,54,55
 Other Assets Including Intangibles,98,52,38,41,44
 Other Assets,67,21,11,13,15
 Intangible Assets,30,31,26,28,29
-Deferred Charges,0,0,0,0,0
+Deferred Charges,-,-,-,-,-
 Interest Receivables,20,15,14,14,15
 Total Assets,4287,4323,3682,3257,3250
-Assets 0 Total Growth,00.84%,17.42%,13.03%,0.23%,0
-Return On Average Assets,1.31%,0,0,0,0
+Assets - Total Growth,-0.84%,17.42%,13.03%,0.23%,-
+Return On Average Assets,1.31%,-,-,-,-
 Total Deposits,3587,3738,3131,2777,2796
 Demand Deposits,2690,2777,2314,1982,1950
 Savings/Time Deposits,897,961,817,795,846
-Foreign Office Deposits,0,0,0,0,0
-Unspecified Deposits,0,0,0,0,0
-Deposits Growth,04.04%,19.41%,12.74%,00.68%,0
+Foreign Office Deposits,-,-,-,-,-
+Unspecified Deposits,-,-,-,-,-
+Deposits Growth,-4.04%,19.41%,12.74%,-0.68%,-
 Total Debt,280,138,123,82,84
 ST Debt & Current Portion LT Debt,43,61,46,44,46
-Current Portion of Long Term Debt,0,0,0,0,0
+Current Portion of Long Term Debt,-,-,-,-,-
 Short Term Debt,43,61,46,44,46
-Long0Term Debt,237,77,77,38,38
+Long-Term Debt,237,77,77,38,38
 LT Debt excl. Capitalized Leases,237,77,77,38,38
-Capitalized Lease Obligations,0,0,0,0,0
-Provision for Risks & Charges,0,0,0,13,9
-Long Term Debt Growth,207.90%,0.19%,104.58%,0.18%,0
+Capitalized Lease Obligations,-,-,-,-,-
+Provision for Risks & Charges,-,-,-,13,9
+Long Term Debt Growth,207.90%,0.19%,104.58%,0.18%,-
 Total Assets FOR CALCULATION PURPOSES ONLY,4287,4323,3682,3257,3250
 Total Debt / Total Assets,6.54%,3.20%,3.33%,2.52%,2.58%
-Deferred Tax Liabilities,0,3,0,3,0
-Deferred Taxes 0 Credit,0,9,15,12,0
-Deferred Taxes 0 Debit,0,12,15,15,0
+Deferred Tax Liabilities,-,3,0,3,-
+Deferred Taxes - Credit,-,9,15,12,-
+Deferred Taxes - Debit,-,12,15,15,-
 Other Liabilities,46,26,49,41,20
-Deferred Tax Liability0Untaxed Reserves,0,0,0,0,0
+Deferred Tax Liability-Untaxed Reserves,-,-,-,-,-
 Other Liabilities excl. Deferred Income,46,26,49,41,20
-Deferred Income,0,0,0,0,0
+Deferred Income,-,-,-,-,-
 Total Liabilities,3913,3911,3318,2924,2909
-Total Liabilities Growth,0.05%,17.89%,13.46%,0.52%,0
-Preferred Stock Carrying Value,0,0,0,0,0
-Redeemable Preferred Stock,0,0,0,0,0
-Non0Redeemable Preferred Stock,0,0,0,0,0
-Preferred Stock issues for ESOP,0,0,0,0,0
-ESOP Guarantees 0 Preferred Stock,0,0,0,0,0
+Total Liabilities Growth,0.05%,17.89%,13.46%,0.52%,-
+Preferred Stock Carrying Value,-,-,-,-,-
+Redeemable Preferred Stock,-,-,-,-,-
+Non-Redeemable Preferred Stock,-,-,-,-,-
+Preferred Stock issues for ESOP,-,-,-,-,-
+ESOP Guarantees - Preferred Stock,-,-,-,-,-
 Common Equity Total,374,412,364,333,340
 Common Stock Par/Carry Value,0,0,0,0,0
-Additional Paid0In Capital/Capital Surplus,223,221,191,191,32
+Additional Paid-In Capital/Capital Surplus,223,221,191,191,32
 Retained Earnings,232,194,155,134,315
-ESOP Debt Guarantee,0,0,0,0,0
-Cumulative Translation Adjustment/Unrealized For. Exch. Gain,0,0,0,0,0
+ESOP Debt Guarantee,-,-,-,-,-
+Cumulative Translation Adjustment/Unrealized For. Exch. Gain,-,-,-,-,-
 Unrealized Gain/Loss Marketable Securities,72,2,19,9,4
-Revaluation Reserves,0,0,0,0,0
+Revaluation Reserves,-,-,-,-,-
 Other Appropriated Reserves,0,1,1,1,0
-Unappropriated Reserves,0,0,0,0,0
-Treasury Stock,10,5,0,0,3
+Unappropriated Reserves,-,-,-,-,-
+Treasury Stock,10,5,-,-,3
 Common Equity / Total Assets,0.09%,0.10%,0.10%,0.10%,0.10%
 Total Shareholders Equity,374,412,364,333,340
 Total Shareholders Equity / Total Assets,8.72%,9.53%,9.88%,10.22%,10.48%
-Return On Average Total Equity,14.36%,0,0,0,0
-Accumulated Minority Interest,0,0,0,0,0
+Return On Average Total Equity,14.36%,-,-,-,-
+Accumulated Minority Interest,-,-,-,-,-
 Total Equity,374,412,364,333,340
 Liabilities & Shareholders Equity,4287,4323,3682,3257,3250

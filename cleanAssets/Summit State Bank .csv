@@ -1,34 +1,34 @@
-Fiscal year is January0December. All values USD Millions.,2022,2021,2020,2019,2018
+Fiscal year is January-December. All values USD Millions.,2022,2021,2020,2019,2018
 Total Cash & Due from Banks,78,41,31,38,22
-Cash & Due from Banks Growth,90.59%,32.03%,019.51%,76.55%,0
-Investments 0 Total,89,77,71,66,81
-Trading Account Securities,0,0,0,0,0
-Federal Funds Sold & Securities Purchased,0,0,0,0,0
-Federal Funds Sold,0,0,0,0,0
-Securities Bought Under Resale Agreement,0,0,0,0,0
+Cash & Due from Banks Growth,90.59%,32.03%,-19.51%,76.55%,-
+Investments - Total,89,77,71,66,81
+Trading Account Securities,-,-,-,-,-
+Federal Funds Sold & Securities Purchased,-,-,-,-,-
+Federal Funds Sold,-,-,-,-,-
+Securities Bought Under Resale Agreement,-,-,-,-,-
 Treasury Securities,51,39,41,48,47
-Federal Agency Securities,0,0,0,0,0
-State & Municipal Securities,0,0,0,0,0
+Federal Agency Securities,-,-,-,-,-
+State & Municipal Securities,-,-,-,-,-
 Mortgage Backed Securities,8,10,7,9,11
 Other Securities,24,20,20,5,20
 Other Investments,5,8,3,3,3
-Investments Growth,14.69%,8.13%,8.84%,019.28%,0
+Investments Growth,14.69%,8.13%,8.84%,-19.28%,-
 Net Loans,914,821,746,577,505
-Gross Loans 0 Net of Unearned Income,0,0,0,0,0
+Gross Loans - Net of Unearned Income,-,-,-,-,-
 Commercial & Industrial Loans,132,145,192,130,108
-Consumer & Installment Loans,0,0,0,0,0
-Interbank Loans,0,0,0,0,0
+Consumer & Installment Loans,-,-,-,-,-
+Interbank Loans,-,-,-,-,-
 Real Estate Mortgage Loans,796,688,143,141,115
 Lease Financing Loans,1,0,0,0,0
-Foreign Loans,0,0,0,0,0
-Broker & Financial Institution Loans,0,0,0,0,0
-Unspecified/Other Loans,0,0,0,0,0
-Unearned Income,0,0,0,0,0
+Foreign Loans,-,-,-,-,-
+Broker & Financial Institution Loans,-,-,-,-,-
+Unspecified/Other Loans,-,-,-,-,-
+Unearned Income,-,-,-,-,-
 Loan Loss Allowances Reserves,15,12,9,7,6
-Investment in Unconsolidated Subs.,0,0,0,0,0
-Customer Liability on Acceptances,0,0,0,0,0
-Real Estate Other Than Bank Premises,0,0,0,0,0
-Loans 0 1 Yr Growth Rate,11.29%,10.06%,29.38%,14.27%,0
+Investment in Unconsolidated Subs.,-,-,-,-,-
+Customer Liability on Acceptances,-,-,-,-,-
+Real Estate Other Than Bank Premises,-,-,-,-,-
+Loans - 1 Yr Growth Rate,11.29%,10.06%,29.38%,14.27%,-
 Total Deposits FOR CALC PURPOSES,963,812,726,574,501
 Loans Total / Total Deposits,0.00%,0.00%,0.00%,0.00%,0.00%
 Loans Total / Total Assets,0.00%,0.00%,0.00%,0.00%,0.00%
@@ -36,57 +36,57 @@ Net Property Plant & Equipment,7,7,7,7,6
 Other Assets Including Intangibles,9,7,5,5,6
 Other Assets,5,3,1,1,1
 Intangible Assets,4,4,4,4,4
-Deferred Charges,0,0,0,0,0
+Deferred Charges,-,-,-,-,-
 Interest Receivables,4,3,4,2,2
 Total Assets,1119,962,869,698,623
-Assets 0 Total Growth,16.38%,10.67%,24.49%,12.01%,0
-Return On Average Assets,1.63%,0,0,0,0
+Assets - Total Growth,16.38%,10.67%,24.49%,12.01%,-
+Return On Average Assets,1.63%,-,-,-,-
 Total Deposits,963,812,726,574,501
 Demand Deposits,533,551,455,327,290
 Savings/Time Deposits,429,261,271,247,211
-Foreign Office Deposits,0,0,0,0,0
-Unspecified Deposits,0,0,0,0,0
-Deposits Growth,18.61%,11.75%,26.57%,14.50%,0
+Foreign Office Deposits,-,-,-,-,-
+Unspecified Deposits,-,-,-,-,-
+Deposits Growth,18.61%,11.75%,26.57%,14.50%,-
 Total Debt,48,56,61,52,57
 ST Debt & Current Portion LT Debt,18,8,5,33,57
-Current Portion of Long Term Debt,18,8,5,33,0
-Short Term Debt,0,0,0,0,57
-Long0Term Debt,30,48,55,19,0
-LT Debt excl. Capitalized Leases,29,47,54,18,0
-Capitalized Lease Obligations,0,0,0,0,0
+Current Portion of Long Term Debt,18,8,5,33,-
+Short Term Debt,-,0,0,0,57
+Long-Term Debt,30,48,55,19,-
+LT Debt excl. Capitalized Leases,29,47,54,18,-
+Capitalized Lease Obligations,0,0,0,0,-
 Provision for Risks & Charges,2,1,0,0,0
-Long Term Debt Growth,037.44%,013.87%,192.32%,0.00%,0
+Long Term Debt Growth,-37.44%,-13.87%,192.32%,0.00%,-
 Total Assets FOR CALCULATION PURPOSES ONLY,1119,962,869,698,623
 Total Debt / Total Assets,4.32%,5.78%,6.99%,7.51%,9.12%
 Deferred Tax Liabilities,7,3,1,1,1
-Deferred Taxes 0 Credit,4,4,3,2,1
-Deferred Taxes 0 Debit,10,6,4,3,2
+Deferred Taxes - Credit,4,4,3,2,1
+Deferred Taxes - Debit,10,6,4,3,2
 Other Liabilities,14,6,3,2,2
-Deferred Tax Liability0Untaxed Reserves,0,0,0,0,0
+Deferred Tax Liability-Untaxed Reserves,-,-,-,-,-
 Other Liabilities excl. Deferred Income,14,6,3,2,2
-Deferred Income,0,0,0,0,0
+Deferred Income,-,-,-,-,-
 Total Liabilities,1031,877,793,631,562
-Total Liabilities Growth,17.46%,10.59%,25.79%,12.29%,0
-Preferred Stock Carrying Value,0,0,0,0,0
-Redeemable Preferred Stock,0,0,0,0,0
-Non0Redeemable Preferred Stock,0,0,0,0,0
-Preferred Stock issues for ESOP,0,0,0,0,0
-ESOP Guarantees 0 Preferred Stock,0,0,0,0,0
+Total Liabilities Growth,17.46%,10.59%,25.79%,12.29%,-
+Preferred Stock Carrying Value,-,-,-,-,-
+Redeemable Preferred Stock,-,-,-,-,-
+Non-Redeemable Preferred Stock,-,-,-,-,-
+Preferred Stock issues for ESOP,-,-,-,-,-
+ESOP Guarantees - Preferred Stock,-,-,-,-,-
 Common Equity Total,89,84,76,67,62
 Common Stock Par/Carry Value,37,37,37,37,37
-Additional Paid0In Capital/Capital Surplus,0,0,0,0,0
+Additional Paid-In Capital/Capital Surplus,-,-,-,-,-
 Retained Earnings,61,48,38,30,26
-ESOP Debt Guarantee,0,0,0,0,0
-Cumulative Translation Adjustment/Unrealized For. Exch. Gain,0,0,0,0,0
+ESOP Debt Guarantee,-,-,-,-,-
+Cumulative Translation Adjustment/Unrealized For. Exch. Gain,-,-,-,-,-
 Unrealized Gain/Loss Marketable Securities,10,0,1,0,2
-Revaluation Reserves,0,0,0,0,0
-Other Appropriated Reserves,0,0,0,0,0
-Unappropriated Reserves,0,0,0,0,0
-Treasury Stock,0,0,0,0,0
+Revaluation Reserves,-,-,-,-,-
+Other Appropriated Reserves,-,-,-,-,-
+Unappropriated Reserves,-,-,-,-,-
+Treasury Stock,-,-,-,-,-
 Common Equity / Total Assets,0.08%,0.09%,0.09%,0.10%,0.10%
 Total Shareholders Equity,89,84,76,67,62
 Total Shareholders Equity / Total Assets,7.91%,8.76%,8.70%,9.65%,9.87%
-Return On Average Total Equity,19.64%,0,0,0,0
-Accumulated Minority Interest,0,0,0,0,0
+Return On Average Total Equity,19.64%,-,-,-,-
+Accumulated Minority Interest,-,-,-,-,-
 Total Equity,89,84,76,67,62
 Liabilities & Shareholders Equity,1119,962,869,698,623

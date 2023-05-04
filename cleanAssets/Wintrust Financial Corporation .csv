@@ -1,34 +1,34 @@
-Fiscal year is January0December. All values USD Millions.,2022,2021,2020,2019,2018
+Fiscal year is January-December. All values USD Millions.,2022,2021,2020,2019,2018
 Total Cash & Due from Banks,491,411,322,286,392
-Cash & Due from Banks Growth,19.40%,27.52%,12.67%,027.02%,0
-Investments 0 Total,9805,12388,9937,6935,4685
+Cash & Due from Banks Growth,19.40%,27.52%,12.67%,-27.02%,-
+Investments - Total,9805,12388,9937,6935,4685
 Trading Account Securities,1,1,1,1,2
 Federal Funds Sold & Securities Purchased,0,700,0,0,0
 Federal Funds Sold,0,700,0,0,0
-Securities Bought Under Resale Agreement,0,0,0,0,0
-Treasury Securities,15,0,305,121,126
+Securities Bought Under Resale Agreement,-,-,-,-,-
+Treasury Securities,15,-,305,121,126
 Federal Agency Securities,414,233,262,1268,955
 State & Municipal Securities,348,353,348,377,391
 Mortgage Backed Securities,5964,4545,2629,2380,1630
 Other Securities,254,230,182,146,126
 Other Investments,2810,6326,6210,2643,1455
-Investments Growth,020.85%,24.66%,43.28%,48.03%,0
+Investments Growth,-20.85%,24.66%,43.28%,48.03%,-
 Net Loans,38926,34541,31760,26643,23668
-Gross Loans 0 Net of Unearned Income,0,0,0,0,0
+Gross Loans - Net of Unearned Income,-,-,-,-,-
 Commercial & Industrial Loans,26490,23802,11956,8286,7829
 Consumer & Installment Loans,51,24,32,110,121
-Interbank Loans,0,0,0,0,0
+Interbank Loans,-,-,-,-,-
 Real Estate Mortgage Loans,2705,10963,10179,9888,8488
-Lease Financing Loans,0,0,9912,8517,7383
-Foreign Loans,0,0,0,0,0
-Broker & Financial Institution Loans,0,0,0,0,0
-Unspecified/Other Loans,0,0,0,0,0
-Unearned Income,0,0,0,0,0
+Lease Financing Loans,-,-,9912,8517,7383
+Foreign Loans,-,-,-,-,-
+Broker & Financial Institution Loans,-,-,-,-,-
+Unspecified/Other Loans,-,-,-,-,-
+Unearned Income,-,-,-,-,-
 Loan Loss Allowances Reserves,357,300,319,157,153
-Investment in Unconsolidated Subs.,0,0,0,0,0
-Customer Liability on Acceptances,0,0,0,0,0
+Investment in Unconsolidated Subs.,-,-,-,-,-
+Customer Liability on Acceptances,-,-,-,-,-
 Real Estate Other Than Bank Premises,10,4,17,15,25
-Loans 0 1 Yr Growth Rate,12.70%,8.76%,19.20%,12.57%,0
+Loans - 1 Yr Growth Rate,12.70%,8.76%,19.20%,12.57%,-
 Total Deposits FOR CALC PURPOSES,42903,42096,37093,30107,26095
 Loans Total / Total Deposits,0.00%,0.00%,0.00%,0.00%,0.00%
 Loans Total / Total Assets,0.00%,0.00%,0.00%,0.00%,0.00%
@@ -36,57 +36,57 @@ Net Property Plant & Equipment,1019,1008,1011,986,904
 Other Assets Including Intangibles,2484,1520,1762,1452,1310
 Other Assets,1809,837,1080,759,687
 Intangible Assets,676,683,682,692,623
-Deferred Charges,0,0,0,0,0
+Deferred Charges,-,-,-,-,-
 Interest Receivables,214,269,272,303,260
 Total Assets,52950,50142,45081,36621,31245
-Assets 0 Total Growth,5.60%,11.23%,23.10%,17.21%,0
-Return On Average Assets,0.99%,0,0,0,0
+Assets - Total Growth,5.60%,11.23%,23.10%,17.21%,-
+Return On Average Assets,0.99%,-,-,-,-
 Total Deposits,42903,42096,37093,30107,26095
 Demand Deposits,31147,29788,24446,18164,15172
 Savings/Time Deposits,9292,7815,8508,8820,7926
-Foreign Office Deposits,0,0,0,0,0
+Foreign Office Deposits,-,-,-,-,-
 Unspecified Deposits,2464,4492,4139,3123,2997
-Deposits Growth,1.92%,13.49%,23.20%,15.38%,0
+Deposits Growth,1.92%,13.49%,23.20%,15.38%,-
 Total Debt,3604,2426,2618,1980,1213
 ST Debt & Current Portion LT Debt,308,84,461,54,53
 Current Portion of Long Term Debt,290,75,428,6,2
 Short Term Debt,18,9,33,47,51
-Long0Term Debt,3296,2342,2157,1927,1160
+Long-Term Debt,3296,2342,2157,1927,1160
 LT Debt excl. Capitalized Leases,3296,2342,1998,1756,1160
-Capitalized Lease Obligations,0,0,0,0,0
-Provision for Risks & Charges,51,0,0,0,0
-Long Term Debt Growth,40.77%,8.56%,11.96%,66.03%,0
+Capitalized Lease Obligations,-,-,-,-,-
+Provision for Risks & Charges,51,-,-,-,-
+Long Term Debt Growth,40.77%,8.56%,11.96%,66.03%,-
 Total Assets FOR CALCULATION PURPOSES ONLY,52950,50142,45081,36621,31245
 Total Debt / Total Assets,6.81%,4.84%,5.81%,5.41%,3.88%
-Deferred Tax Liabilities,0,0,0,0,0
-Deferred Taxes 0 Credit,0,0,0,0,0
-Deferred Taxes 0 Debit,0,0,0,0,0
+Deferred Tax Liabilities,-,-,-,-,-
+Deferred Taxes - Credit,-,-,-,-,-
+Deferred Taxes - Debit,-,-,-,-,-
 Other Liabilities,1596,1122,1254,842,670
-Deferred Tax Liability0Untaxed Reserves,0,0,0,0,0
+Deferred Tax Liability-Untaxed Reserves,-,-,-,-,-
 Other Liabilities excl. Deferred Income,1594,1122,1254,842,670
-Deferred Income,1,0,0,0,0
+Deferred Income,1,-,-,-,-
 Total Liabilities,48153,45643,40965,32929,27977
-Total Liabilities Growth,5.50%,11.42%,24.40%,17.70%,0
+Total Liabilities Growth,5.50%,11.42%,24.40%,17.70%,-
 Preferred Stock Carrying Value,413,413,413,125,125
-Redeemable Preferred Stock,0,0,0,0,0
-Non0Redeemable Preferred Stock,413,413,413,125,125
-Preferred Stock issues for ESOP,0,0,0,0,0
-ESOP Guarantees 0 Preferred Stock,0,0,0,0,0
+Redeemable Preferred Stock,-,-,-,-,-
+Non-Redeemable Preferred Stock,413,413,413,125,125
+Preferred Stock issues for ESOP,-,-,-,-,-
+ESOP Guarantees - Preferred Stock,-,-,-,-,-
 Common Equity Total,4384,4086,3703,3566,3143
 Common Stock Par/Carry Value,61,59,58,58,57
-Additional Paid0In Capital/Capital Surplus,1902,1686,1650,1650,1558
+Additional Paid-In Capital/Capital Surplus,1902,1686,1650,1650,1558
 Retained Earnings,2849,2448,2080,1900,1611
-ESOP Debt Guarantee,0,0,0,0,0
+ESOP Debt Guarantee,-,-,-,-,-
 Cumulative Translation Adjustment/Unrealized For. Exch. Gain,49,32,32,37,42
 Unrealized Gain/Loss Marketable Securities,386,9,71,15,42
-Revaluation Reserves,0,0,0,0,0
+Revaluation Reserves,-,-,-,-,-
 Other Appropriated Reserves,7,27,23,13,8
-Unappropriated Reserves,0,0,0,0,0
+Unappropriated Reserves,-,-,-,-,-
 Treasury Stock,0,110,100,7,6
 Common Equity / Total Assets,0.08%,0.08%,0.08%,0.10%,0.10%
 Total Shareholders Equity,4797,4499,4116,3691,3268
 Total Shareholders Equity / Total Assets,9.06%,8.97%,9.13%,10.08%,10.46%
-Return On Average Total Equity,10.97%,0,0,0,0
-Accumulated Minority Interest,0,0,0,0,0
+Return On Average Total Equity,10.97%,-,-,-,-
+Accumulated Minority Interest,-,-,-,-,-
 Total Equity,4797,4499,4116,3691,3268
 Liabilities & Shareholders Equity,52950,50142,45081,36621,31245
