@@ -13,7 +13,7 @@ Mortgage Backed Securities,0,0,1,1,1
 Other Securities,23,11,11,9,9
 Other Investments,344,327,178,194,91
 Investments Growth,41.29%,123.57%,08.32%,53.13%,0
-Net Loans,983,"1,082","1,148","1,038",986
+Net Loans,983,1082,1148,1038,986
 Gross Loans 0 Net of Unearned Income,0,0,0,0,0
 Commercial & Industrial Loans,103,168,237,167,194
 Consumer & Installment Loans,22,26,31,21,15
@@ -24,20 +24,20 @@ Foreign Loans,0,0,0,0,0
 Broker & Financial Institution Loans,0,0,0,0,0
 Unspecified/Other Loans,3,2,1,2,2
 Unearned Income,0,0,0,0,0
-Loan Loss Allowances (Reserves),(23),(23),(23),(14),(14)
+Loan Loss Allowances Reserves,23,23,23,14,14
 Investment in Unconsolidated Subs.,0,0,0,0,0
 Customer Liability on Acceptances,0,0,0,0,0
 Real Estate Other Than Bank Premises,0,0,0,0,0
 Loans 0 1 Yr Growth Rate,09.17%,05.80%,10.62%,5.30%,0
-Total Deposits FOR CALC PURPOSES,"1,686","1,537","1,276","1,337","1,156"
-Loans (Total) / Total Deposits,0.00%,0.00%,0.00%,0.00%,0.00%
-Loans (Total) / Total Assets,0.00%,0.00%,0.00%,0.00%,0.00%
-"Net Property, Plant & Equipment",37,39,41,42,43
-Other Assets (Including Intangibles),48,36,33,38,33
+Total Deposits FOR CALC PURPOSES,1686,1537,1276,1337,1156
+Loans Total / Total Deposits,0.00%,0.00%,0.00%,0.00%,0.00%
+Loans Total / Total Assets,0.00%,0.00%,0.00%,0.00%,0.00%
+Net Property Plant & Equipment,37,39,41,42,43
+Other Assets Including Intangibles,48,36,33,38,33
 Other Assets,37,27,24,28,23
 Intangible Assets,11,9,9,10,10
 Deferred Charges,0,0,0,0,0
 Interest Receivables,5,4,3,4,4
-Total Assets,"1,970","1,803","1,534","1,476","1,291"
+Total Assets,1970,1803,1534,1476,1291
 Assets 0 Total Growth,9.29%,17.55%,3.95%,14.33%,0
 Return On Average Assets,0.54%,0,0,0,0

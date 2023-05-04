@@ -1,43 +1,43 @@
 Fiscal year is January0December. All values USD Thousands.,2022,2021,2020,2019,2018
-Total Cash & Due from Banks,"30,025.0","29,337.0","31,683.0","30,794.0","26,725.0"
+Total Cash & Due from Banks,30025.0,29337.0,31683.0,30794.0,26725.0
 Cash & Due from Banks Growth,2.35%,07.40%,2.89%,15.23%,0
-Investments 0 Total,"225,090.0","321,834.0","171,712.0","77,387.0","83,159.0"
+Investments 0 Total,225090.0,321834.0,171712.0,77387.0,83159.0
 Trading Account Securities,0,0,0,0,0
-Federal Funds Sold & Securities Purchased,"31,737.0","153,816.0","69,203.0","8,317.0","23,600.0"
-Federal Funds Sold,"31,737.0","153,816.0","69,203.0","8,317.0","23,600.0"
+Federal Funds Sold & Securities Purchased,31737.0,153816.0,69203.0,8317.0,23600.0
+Federal Funds Sold,31737.0,153816.0,69203.0,8317.0,23600.0
 Securities Bought Under Resale Agreement,0,0,0,0,0
-Treasury Securities,"8,380.0","5,657.0","5,698.0","5,652.0","5,545.0"
-Federal Agency Securities,"59,273.0","58,470.0","41,320.0","32,108.0","23,267.0"
-State & Municipal Securities,"37,855.0","50,204.0","24,773.0","11,222.0","12,009.0"
-Mortgage Backed Securities,"67,842.0","37,438.0","15,696.0","10,264.0","11,876.0"
-Other Securities,"16,076.0","13,153.0","6,369.0","4,097.0","3,730.0"
-Other Investments,"3,927.0","3,096.0","8,653.0","5,727.0","3,132.0"
+Treasury Securities,8380.0,5657.0,5698.0,5652.0,5545.0
+Federal Agency Securities,59273.0,58470.0,41320.0,32108.0,23267.0
+State & Municipal Securities,37855.0,50204.0,24773.0,11222.0,12009.0
+Mortgage Backed Securities,67842.0,37438.0,15696.0,10264.0,11876.0
+Other Securities,16076.0,13153.0,6369.0,4097.0,3730.0
+Other Investments,3927.0,3096.0,8653.0,5727.0,3132.0
 Investments Growth,030.06%,87.43%,121.89%,06.94%,0
-Net Loans,"605,366.0","576,469.0","601,934.0","573,274.0","530,016.0"
+Net Loans,605366.0,576469.0,601934.0,573274.0,530016.0
 Gross Loans 0 Net of Unearned Income,0,0,0,0,0
-Commercial & Industrial Loans,"95,885.0","105,067.0","145,145.0","114,257.0","92,877.0"
-Consumer & Installment Loans,"97,959.0","89,102.0","92,344.0","89,945.0","86,191.0"
+Commercial & Industrial Loans,95885.0,105067.0,145145.0,114257.0,92877.0
+Consumer & Installment Loans,97959.0,89102.0,92344.0,89945.0,86191.0
 Interbank Loans,0,0,0,0,0
-Real Estate Mortgage Loans,"417,781.0","389,215.0","371,601.0","373,901.0","355,529.0"
+Real Estate Mortgage Loans,417781.0,389215.0,371601.0,373901.0,355529.0
 Lease Financing Loans,0,0,0,0,0
 Foreign Loans,0,0,0,0,0
 Broker & Financial Institution Loans,0,0,0,0,0
 Unspecified/Other Loans,0,0,0,0,0
 Unearned Income,0,0,0,0,0
-Loan Loss Allowances (Reserves),"(6,259.0)","(6,915.0)","(7,156.0)","(4,829.0)","(4,581.0)"
+Loan Loss Allowances Reserves,6259.0,6915.0,7156.0,4829.0,4581.0
 Investment in Unconsolidated Subs.,0,0,0,0,0
 Customer Liability on Acceptances,0,0,0,0,0
-Real Estate Other Than Bank Premises,566.0,761.0,"1,105.0","2,339.0","2,430.0"
+Real Estate Other Than Bank Premises,566.0,761.0,1105.0,2339.0,2430.0
 Loans 0 1 Yr Growth Rate,5.01%,04.23%,5.00%,8.16%,0
-Total Deposits FOR CALC PURPOSES,"848,138.0","887,056.0","764,967.0","649,459.0","612,043.0"
-Loans (Total) / Total Deposits,0.00%,0.00%,0.00%,0.00%,0.00%
-Loans (Total) / Total Assets,0.00%,0.00%,0.00%,0.00%,0.00%
-"Net Property, Plant & Equipment","19,178.0","19,633.0","17,981.0","18,206.0","13,426.0"
-Other Assets (Including Intangibles),"45,610.0","37,536.0","23,083.0","20,351.0","15,644.0"
-Other Assets,"35,711.0","26,129.0","22,722.0","20,351.0","15,644.0"
-Intangible Assets,"9,899.0","11,407.0",361.0,0,0
+Total Deposits FOR CALC PURPOSES,848138.0,887056.0,764967.0,649459.0,612043.0
+Loans Total / Total Deposits,0.00%,0.00%,0.00%,0.00%,0.00%
+Loans Total / Total Assets,0.00%,0.00%,0.00%,0.00%,0.00%
+Net Property Plant & Equipment,19178.0,19633.0,17981.0,18206.0,13426.0
+Other Assets Including Intangibles,45610.0,37536.0,23083.0,20351.0,15644.0
+Other Assets,35711.0,26129.0,22722.0,20351.0,15644.0
+Intangible Assets,9899.0,11407.0,361.0,0,0
 Deferred Charges,0,0,0,0,0
-Interest Receivables,"2,736.0","2,064.0","2,350.0","1,866.0","1,742.0"
-Total Assets,"928,571.0","987,634.0","853,462.0","727,033.0","675,164.0"
+Interest Receivables,2736.0,2064.0,2350.0,1866.0,1742.0
+Total Assets,928571.0,987634.0,853462.0,727033.0,675164.0
 Assets 0 Total Growth,05.98%,15.72%,17.39%,7.68%,0
 Return On Average Assets,0.94%,0,0,0,0
